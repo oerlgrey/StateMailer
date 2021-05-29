@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# örlgrey <ochzoetna@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: StateMailer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-18-05 08:00+0200\n"
+"PO-Revision-Date: 2021-05-26 22:19+0200\n"
+"Last-Translator: örlgrey <ochzoetna@gmail.com>\n"
+"Language-Team: örlgrey\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: StateMailer.py
+msgid "File"
+msgstr "Datei"
+
+#: StateMailer.py
+msgid "Directory"
+msgstr "Verzeichnis"
+
+#: StateMailer.py
+msgid "   Service started"
+msgstr "   Dienst gestartet"
+
+#: StateMailer.py
+msgid "   Problem solved"
+msgstr "   Problem behoben"
+
+#: StateMailer.py
+msgid "   daily Testmail"
+msgstr "   tägliches Testmail"
+
+#: StateMailer.py
+msgid " Failed attempt)"
+msgstr " Fehlversuch)"
+
+#: StateMailer.py
+msgid " Failed attempts)"
+msgstr " Fehlversuche)"
+
+#: StateMailer.py
+msgid "StateMailer Settings"
+msgstr "StateMailer Einstellungen"
+
+#: StateMailer.py
+msgid "Activate StateMailer"
+msgstr "Aktiviere StateMailer"
+
+#: StateMailer.py
+msgid "Submitter Settings:"
+msgstr "Absender Einstellungen:"
+
+#: StateMailer.py
+msgid "   Password"
+msgstr "   Passwort"
+
+#: StateMailer.py
+msgid "   Security"
+msgstr "   Sicherheit"
+
+#: StateMailer.py
+msgid "Recipient Settings:"
+msgstr "Empfänger Einstellungen:"
+
+#: StateMailer.py
+msgid "Subject Settings:"
+msgstr "Betreff Einstellungen:"
+
+#: StateMailer.py
+msgid "File or Directory:"
+msgstr "Datei oder Verzeichnis:"
+
+#: StateMailer.py
+msgid "   File"
+msgstr "   Datei"
+
+#: StateMailer.py
+msgid "   Directory"
+msgstr "   Verzeichnis"
+
+#: StateMailer.py
+msgid "Alarm method"
+msgstr "Alarmmethode"
+
+#: StateMailer.py
+msgid "if exists"
+msgstr "falls vorhanden"
+
+#: StateMailer.py
+msgid "if not exist"
+msgstr "falls nicht vorhanden"
+
+#: StateMailer.py
+msgid "Check interval"
+msgstr "Überprüfungsintervall"
+
+#: StateMailer.py
+msgid "Send daily Testmail"
+msgstr "Sende tägliches Testmail"
+
+#: StateMailer.py
+msgid "daily Testmail Time"
+msgstr "tägliche Testmail-Zeit"
+
+#: StateMailer.py
+msgid "Delete entry"
+msgstr "Eintrag löschen"
+
+#: StateMailer.py
+msgid "E-Mail was sent successfully."
+msgstr "E-Mail wurde erfolgreich versendet."
+
+#: StateMailer.py
+msgid ""
+"Sending E-Mail failed!\n"
+"Please check your settings."
+msgstr ""
+"E-Mail senden fehlgeschlagen!\n"
+"Bitte überprüfen Sie Ihre Einstellungen."
+
+#: StateMailer.py
+msgid ""
+"Your box has no internet connection.\n"
+"Please solve the problem."
+msgstr ""
+"Ihre Box hat keine Internetverbindung.\n"
+"Bitte beheben Sie das Problem."
+
+#: StateMailer.py
+msgid "Enter the submitter name:"
+msgstr "Geben Sie den Absender Namen ein:"
+
+#: StateMailer.py
+msgid "Enter the submitter E-Mail address:"
+msgstr "Geben Sie die Absender E-Mail Adresse ein:"
+
+#: StateMailer.py
+msgid "Enter the submitter password:"
+msgstr "Geben Sie das Absender Passwort ein:"
+
+#: StateMailer.py
+msgid "Enter the submitter SMTP:"
+msgstr "Geben Sie den Absender SMTP ein:"
+
+#: StateMailer.py
+msgid "Enter the submitter SMTP-Port:"
+msgstr "Geben Sie den Absender SMTP-Port ein:"
+
+#: StateMailer.py
+msgid "Enter the recipient E-Mail address:"
+msgstr "Geben Sie die Empfänger E-Mail Adresse ein:"
+
+#: StateMailer.py
+msgid "Enter the CC E-Mail address:"
+msgstr "Geben Sie die CC E-Mail Adresse ein:"
+
+#: StateMailer.py
+msgid "Enter the subject:"
+msgstr "Geben Sie den Betreff ein:"
+
+#: StateMailer.py
+msgid "Do you really want to exit without saving?"
+msgstr "Wollen Sie wirklich beenden ohne zu speichern?"

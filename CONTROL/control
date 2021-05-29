@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-statemailer
+Version: 1.0
+Section: misc
+Priority: optional
+Architecture: all
+Depends:
+Maintainer: örlgrey
+Description: StateMailer Plugin
+Source:

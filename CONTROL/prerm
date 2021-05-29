@@ -1,0 +1,13 @@
+#!/bin/sh
+if [ -f /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/__init__.pyo ]; then
+    rm /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/__init__.pyo
+fi
+if [ -f /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/plugin.pyo ]; then
+    rm /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/plugin.pyo
+fi
+if [ -f /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/ping.pyo ]; then
+    rm /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/ping.pyo
+fi
+if [ -f /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/StateMailerBrowser.pyo ]; then
+    rm /usr/lib/enigma2/python/Plugins/Extensions/StateMailer/StateMailerBrowser.pyo
+fi
